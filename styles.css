@@ -1,0 +1,44 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.project a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav {
+  background-color: #BB29BB;
+  min-height: 10%;
+  border-radius: 0 0 50% 50%;
+}
+
+.title {
+  font-size: 2.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.status-tags {
+  margin-bottom: 3rem;
+}
+
+.tag { 
+  display: inline-block;
+  margin: 0.5rem 0.3rem;
+}
+
+.tag-text {
+  color: white;
+  background-color: #3CC1E0;
+  padding: 0.4rem 0.8rem;
+  border-radius: 1.2rem;
+}

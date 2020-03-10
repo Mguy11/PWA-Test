@@ -1,0 +1,22 @@
+{
+  "name": "prg01-9-pwa",
+  "version": "1.0.0",
+  "description": "PRG01-9-PWA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mguy11/PRG01-9-PWA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mguy11/PRG01-9-PWA/issues"
+  },
+  "homepage": "https://github.com/Mguy11/PRG01-9-PWA#readme",
+  "dependencies": {
+    "localforage": "^1.7.3"
+  }
+}
